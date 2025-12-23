@@ -8,8 +8,6 @@
 
 -----------------------------
 
-*	LeapYear34: Schematic Engine
-
 *	Text: Text Statement
 ..	Quant: Quantum Total
 1.	Character: All Characters
