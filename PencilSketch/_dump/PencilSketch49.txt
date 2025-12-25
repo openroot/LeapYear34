@@ -1,4 +1,5 @@
 -----------------------------
+-----------------------------
 
 *	PencilSketch49: Rapid Development
 ..	Power: Lock
@@ -9,6 +10,7 @@
 5.	Sorrow: Basic anomalies
 ::.	Continent: Ecosystem
 
+-----------------------------
 -----------------------------
 
 *	Power: Lock
@@ -41,6 +43,8 @@
 26.	Fire: Matrix
 ::.	Nuclear: Fission
 
+-----------------------------
+
 *	Civil: Department
 ..	Family: Tree
 1.	Marriage: Classic
@@ -71,9 +75,13 @@
 26.	Settlement: Experience
 ::.	Member: Identity
 
+-----------------------------
+
 *	Drug: Camphor
 ..	Solute: Salt
 ::.	Solvent: Oil
+
+-----------------------------
 
 *	Wax: Full Haystack
 ..	Sign: Log Exchange
@@ -105,6 +113,8 @@
 26.	Game: Play Blog
 ::.	Spot: Navigation Tower
 
+-----------------------------
+
 *	Infection: Allergy
 ..	Virus: Vomit
 1.	Latrine: Odour
@@ -134,6 +144,8 @@
 25.	Spasm: Leak
 26.	Snore: Block
 ::.	Fever: Lethargic
+
+-----------------------------
 
 *	Sorrow: Basic anomalies
 ..	Misogyny: Calendar loss
@@ -165,6 +177,8 @@
 26.	Propaganda: Social riot
 ::.	Misery: Irregular event
 
+-----------------------------
+
 *	Continent: Ecosystem
 ..	State: Majesty
 1.	Village: Court
@@ -195,4 +209,5 @@
 26.	Kingdom: Realm
 ::.	Country: Nation
 
+-----------------------------
 -----------------------------

@@ -1,4 +1,5 @@
 -----------------------------
+-----------------------------
 
 *	LeapYear34: Schematic Engine
 ..	Text: Text Statement
@@ -6,6 +7,7 @@
 26.	Item: Product Statement
 ::.	Data: Serial Statement
 
+-----------------------------
 -----------------------------
 
 *	Text: Text Statement
@@ -38,6 +40,8 @@
 26.	Formula: Plural Words
 ::.	Matrix: Total Volume
 
+-----------------------------
+
 *	Taxation: Financial Statement
 ..	Currency: Monetary Policy
 1.	Note: Wealth Exchange
@@ -67,6 +71,8 @@
 25.	Tariff: Excise Duty
 26.	Bill: Price List
 ::.	Commerce: Transactional System
+
+-----------------------------
 
 *	Item: Product Statement
 ..	Rate: Card Set
@@ -98,6 +104,8 @@
 26.	Instance: Business Guarantee
 ::.	Term: Corporate Space
 
+-----------------------------
+
 *	Data: Serial Statement
 ..	Template: Content Structure
 1.	File: Variable Name
@@ -128,4 +136,5 @@
 26.	List: Fast Track
 ::.	Category: Product Nomenclature
 
+-----------------------------
 -----------------------------
