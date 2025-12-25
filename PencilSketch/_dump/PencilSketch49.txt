@@ -43,32 +43,32 @@
 -----------------------------
 
 *	Civil: Department
-..	Family: Tree
+..	Family: Trees
 1.	Marriage: Classic
-2.	Children
-3.	Medication
-4.	Insurance
-5.	Society
-6.	Freedom
-7.	Systems
-8.	Security
-9.	Tradition
-10.	Population
-11.	Judiciary
-12.	Management
+2.	Children: Present
+3.	Medication: Separate
+4.	Insurance: Read
+5.	Society: Difference
+6.	Freedom: Computer
+7.	Systems: Detail
+8.	Security: Deposit
+9.	Tradition: Process
+10.	Population: Pulse
+11.	Judiciary: Property
+12.	Management: Company
 13.	Community: Companion
 14.	Culture: Wear
-15.	Institution
-16.	Rights
-17.	Organisation
-18.	Residential
-19.	Services
-20.	Authority
-21.	Religion
-22.	Discipline
-23.	Independence
-24.	Reservation
-25.	Welfare
+15.	Institution: Coverage
+16.	Rights: Behaviour
+17.	Organisation: Infrastructure
+18.	Residential: Architecture
+19.	Services: Policy
+20.	Authority: License
+21.	Religion: Sense
+22.	Discipline: Direction
+23.	Independence: Write
+24.	Reservation: Random
+25.	Welfare: Legacy
 26.	Settlement: Experience
 ::.	Member: Identity
 
