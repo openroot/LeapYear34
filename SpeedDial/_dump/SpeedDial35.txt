@@ -9,6 +9,12 @@
 -----------------------------
 -----------------------------
 
+*	Timeline: Caption
+..	Greetings: Welcome
+::.	Breadcrumb: Wizard
+
+-----------------------------
+
 *	Sorrow: Basic anomalies
 ..	Misogyny: Calendar loss
 1.	Suffer: Natural disaster
@@ -38,6 +44,12 @@
 25.	Dishonest: Train wreckage
 26.	Propaganda: Social riot
 ::.	Misery: Irregular event
+
+-----------------------------
+
+*	Storyline: Subtitle
+..	Postcard: Stamp
+::.	Envelope: Ticket
 
 -----------------------------
 -----------------------------

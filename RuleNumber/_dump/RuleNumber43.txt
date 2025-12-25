@@ -9,6 +9,12 @@
 -----------------------------
 -----------------------------
 
+*	Minima: Clean Air
+..	Note: Memorandum List
+::.	Draft: Document Folder
+
+-----------------------------
+
 *	Infection: Allergy
 ..	Virus: Vomit
 1.	Latrine: Odour
@@ -38,6 +44,12 @@
 25.	Spasm: Leak
 26.	Snore: Block
 ::.	Fever: Lethargic
+
+-----------------------------
+
+*	Maxima: Clear Water
+..	Variable: Logarithmic Value
+::.	Constant: Exponential Component
 
 -----------------------------
 -----------------------------
