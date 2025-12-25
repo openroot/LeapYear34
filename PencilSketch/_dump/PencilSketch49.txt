@@ -4,10 +4,7 @@
 *	PencilSketch49: Rapid Development
 ..	Power: Lock
 1.	Civil: Department
-2.	Drug: Camphor
-3.	Wax: Full Haystack
-4.	Infection: Allergy
-5.	Sorrow: Basic anomalies
+2.	Wax: Full Haystack
 ::.	Continent: Ecosystem
 
 -----------------------------
@@ -77,12 +74,6 @@
 
 -----------------------------
 
-*	Drug: Camphor
-..	Solute: Salt
-::.	Solvent: Oil
-
------------------------------
-
 *	Wax: Full Haystack
 ..	Sign: Log Exchange
 1.	Farm: Ground Area
@@ -112,70 +103,6 @@
 25.	Directory: Fundamental Rights
 26.	Game: Play Blog
 ::.	Spot: Navigation Tower
-
------------------------------
-
-*	Infection: Allergy
-..	Virus: Vomit
-1.	Latrine: Odour
-2.	Toilet: Spoil
-3.	Gastric: Constipation
-4.	Sweat: Worry
-5.	Dandruff: Intimidate
-6.	Cough: Disturb
-7.	Jaundice: Nervous
-8.	Menstruation: Stress
-9.	Burp: Horrific
-10.	Itch: Anxious
-11.	Pimple: Sore
-12.	Fat: Unfit
-13.	Fracture: Crap
-14.	Pyorrhoea: Cavity
-15.	Swell: Absent
-16.	Puff: Habit
-17.	Fart: Anxiety
-18.	Sneeze: Terrific
-19.	Piles: Worry
-20.	Clot: Ecstasy
-21.	Ache: Depress
-22.	Acne: Frighten
-23.	Rash: Mischief
-24.	Spit: Scrap
-25.	Spasm: Leak
-26.	Snore: Block
-::.	Fever: Lethargic
-
------------------------------
-
-*	Sorrow: Basic anomalies
-..	Misogyny: Calendar loss
-1.	Suffer: Natural disaster
-2.	Unfortunate: Accident
-3.	Exile: Communal violence
-4.	Barbaric: Terrorism
-5.	Cheat: Major forgery
-6.	Abuse: Crowd mismanagement
-7.	Monster: Viral disease
-8.	Desperate: Public food poisoning
-9.	Militant: War victim
-10.	Extremist: Industrial turmoil
-11.	Harmful: Weather devastation
-12.	Ignorant: Confusion in justice system
-13.	Tension: Failed institution
-14.	Evil: Missing family member
-15.	Torture: Suicide
-16.	Fight: Unresolved killing
-17.	Myth: Catastrophe
-18.	Immature: Child abuse
-19.	Irrelevant: Electrical explosion
-20.	Demon: Wild animal attack
-21.	Slang: Sick old people
-22.	Fraudster: Disabled citizen
-23.	Grim: Malnutrition in children
-24.	Expel: Wrong medication
-25.	Dishonest: Train wreckage
-26.	Propaganda: Social riot
-::.	Misery: Irregular event
 
 -----------------------------
 

@@ -1,0 +1,43 @@
+-----------------------------
+-----------------------------
+
+*	SpeedDial35: Social Science
+..	Timeline: Caption
+1.	Sorrow: Basic anomalies
+::.	Storyline: Subtitle
+
+-----------------------------
+-----------------------------
+
+*	Sorrow: Basic anomalies
+..	Misogyny: Calendar loss
+1.	Suffer: Natural disaster
+2.	Unfortunate: Accident
+3.	Exile: Communal violence
+4.	Barbaric: Terrorism
+5.	Cheat: Major forgery
+6.	Abuse: Crowd mismanagement
+7.	Monster: Viral disease
+8.	Desperate: Public food poisoning
+9.	Militant: War victim
+10.	Extremist: Industrial turmoil
+11.	Harmful: Weather devastation
+12.	Ignorant: Confusion in justice system
+13.	Tension: Failed institution
+14.	Evil: Missing family member
+15.	Torture: Suicide
+16.	Fight: Unresolved killing
+17.	Myth: Catastrophe
+18.	Immature: Child abuse
+19.	Irrelevant: Electrical explosion
+20.	Demon: Wild animal attack
+21.	Slang: Sick old people
+22.	Fraudster: Disabled citizen
+23.	Grim: Malnutrition in children
+24.	Expel: Wrong medication
+25.	Dishonest: Train wreckage
+26.	Propaganda: Social riot
+::.	Misery: Irregular event
+
+-----------------------------
+-----------------------------
