@@ -14,7 +14,7 @@
 1.	Latrine: Odour
 2.	Toilet: Spoil
 3.	Gastric: Constipation
-4.	Sweat: Worry
+4.	Sweat: Awkward
 5.	Dandruff: Intimidate
 6.	Cough: Disturb
 7.	Jaundice: Nervous
