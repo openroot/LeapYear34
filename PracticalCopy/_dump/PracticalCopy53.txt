@@ -9,6 +9,8 @@
 -----------------------------
 
 *	Food: Grain
+..	Spice: Flavour
+::.	Vegetable: Ingredient
 
 -----------------------------
 
