@@ -10,12 +10,32 @@
 
 *	Food: Grain
 ..	Spice: Flavour
+1.	Bean: Seed
+4.	Mung: Pulse
+7.	Corn: Fibre
+10.	Wheat: Loaf
+13.	Tea: Liquor
+14.	Sugar: Coat
+17.	Cereal: Chunk
+20.	Nut: Roast
+23.	Rice: Starch
+26.	Cream: Cake
 ::.	Vegetable: Ingredient
 
 -----------------------------
 
 *	Drug: Camphor
 ..	Solute: Salt
+1.	Powder: Extract
+4.	Grape: Creatine
+7.	Tablet: Vitamin
+10.	Carbo: Glucose
+13.	Jelly: Protein
+14.	Syrup: Fruit
+17.	Honey: Flower
+20.	Saline: Juice
+23.	Spirit: Acid
+26.	Capsule: Shell
 ::.	Solvent: Oil
 
 -----------------------------
