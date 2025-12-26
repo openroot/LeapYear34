@@ -43,31 +43,31 @@
 *	Drug: Camphor
 ..	Solute: Salt
 1.	Extract: Powder
-2.	
+2.	Calcium: Broccoli
 3.	Potassium: Banana
 4.	Creatine: Grape
-5.	
-6.	
-7.	Vitamin: Tablet
-8.	
-9.	
+5.	Glutamine: Cabbage
+6.	Omega: Flax
+7.	Tablet: Vitamin
+8.	Copper: Cashew
+9.	Manganese: Onion
 10.	Glucose: Carbo
-11.	
-12.	
+11.	Iodine: Potato
+12.	Zinc: Pea
 13.	Protein: Jelly
-14.	Fruit: Syrup
-15.	
-16.	
-17.	Flower: Honey
+14.	Syrup: Fruit
+15.	Fructose: Guava
+16.	Milk: Yogurt
+17.	Honey: Flower
 18.	Amino: Garlic
 19.	Filter: Charcoal
-20.	Juice: Saline
-21.	
-22.	
+20.	Saline: Juice
+21.	Antioxidant: Chia
+22.	Enzyme: Soy
 23.	Acid: Spirit
-24.	
-25.	
-26.	Shell: Capsule
+24.	Magnesium: Almond
+25.	Phosphorous: Walnut
+26.	Capsule: Shell
 ::.	Solvent: Oil
 
 -----------------------------
