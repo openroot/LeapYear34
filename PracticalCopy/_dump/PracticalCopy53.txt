@@ -15,7 +15,7 @@
 3.	Rye: Taste
 4.	Mung: Pulse
 5.	Plant: Curry
-6.	Beetroot: Gravy
+6.	Beet: Gravy
 7.	Corn: Fibre
 8.	Capsicum: Fresh
 9.	Coriander: Herb
