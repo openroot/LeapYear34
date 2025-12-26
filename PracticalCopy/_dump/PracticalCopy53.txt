@@ -42,32 +42,32 @@
 
 *	Drug: Camphor
 ..	Solute: Salt
-1.	Powder: Extract
+1.	Extract: Powder
 2.	
-3.	
-4.	Grape: Creatine
+3.	Potassium: Banana
+4.	Creatine: Grape
 5.	
 6.	
-7.	Tablet: Vitamin
+7.	Vitamin: Tablet
 8.	
 9.	
-10.	Carbo: Glucose
+10.	Glucose: Carbo
 11.	
 12.	
-13.	Jelly: Protein
-14.	Syrup: Fruit
+13.	Protein: Jelly
+14.	Fruit: Syrup
 15.	
 16.	
-17.	Honey: Flower
-18.	
-19.	
-20.	Saline: Juice
+17.	Flower: Honey
+18.	Amino: Garlic
+19.	Filter: Charcoal
+20.	Juice: Saline
 21.	
 22.	
-23.	Spirit: Acid
+23.	Acid: Spirit
 24.	
 25.	
-26.	Capsule: Shell
+26.	Shell: Capsule
 ::.	Solvent: Oil
 
 -----------------------------
