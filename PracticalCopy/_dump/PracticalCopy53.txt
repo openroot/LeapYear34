@@ -11,14 +11,30 @@
 *	Food: Grain
 ..	Spice: Flavour
 1.	Bean: Seed
+2.	Chickpea: Flour
+3.	Rye: Taste
 4.	Mung: Pulse
+5.	Plant: Curry
+6.	Beetroot: Gravy
 7.	Corn: Fibre
+8.	Capsicum: Fresh
+9.	Coriander: Herb
 10.	Wheat: Loaf
+11.	Crop: Millet
+12.	Chocolate: Candy
 13.	Tea: Liquor
 14.	Sugar: Coat
+15.	Cheese: Toffee
+16.	Poultry: Dairy
 17.	Cereal: Chunk
+18.	Mushroom: Flesh
+19.	Pepper: Colour
 20.	Nut: Roast
+21.	Turmeric: Aroma
+22.	Carrot: Salad
 23.	Rice: Starch
+24.	Barley: Nutrient
+25.	Oat: Bran
 26.	Cream: Cake
 ::.	Vegetable: Ingredient
 
@@ -27,14 +43,30 @@
 *	Drug: Camphor
 ..	Solute: Salt
 1.	Powder: Extract
+2.	
+3.	
 4.	Grape: Creatine
+5.	
+6.	
 7.	Tablet: Vitamin
+8.	
+9.	
 10.	Carbo: Glucose
+11.	
+12.	
 13.	Jelly: Protein
 14.	Syrup: Fruit
+15.	
+16.	
 17.	Honey: Flower
+18.	
+19.	
 20.	Saline: Juice
+21.	
+22.	
 23.	Spirit: Acid
+24.	
+25.	
 26.	Capsule: Shell
 ::.	Solvent: Oil
 
