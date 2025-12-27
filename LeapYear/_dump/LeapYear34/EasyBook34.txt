@@ -1,43 +1,42 @@
 -----------------------------
 -----------------------------
 
-*	SpeedDial35: Social Science
-..	Timeline: Caption
-1.	Sorrow: Basic anomalies
-::.	Storyline: Subtitle
+*	EasyBook34: Environmental Control
+1.	Infection: Allergy
+26.	Sorrow: Basic anomalies
 
 -----------------------------
 -----------------------------
 
-*	Timeline: Caption
-..	Greetings: Welcome
-1.	Library
-2.	Profile
-3.	Genre
-4.	Model
-5.	Expert
-6.	Status
-7.	Season
-8.	Career
-9.	Substitute
-10.	Development
-11.	Philosophy
-12.	Mainstream
-13.	Organism
-14.	Hierarchical
-15.	Treasury
-16.	Universal
-17.	Historical
-18.	Multimedia
-19.	Technology
-20.	Official
-21.	Managerial
-22.	Evergreen
-23.	Commercial
-24.	Transitional
-25.	Agreement
-26.	Benchmark
-::.	Breadcrumb: Wizard
+*	Infection: Allergy
+..	Virus: Vomit
+1.	Latrine: Odour
+2.	Toilet: Spoil
+3.	Gastric: Constipation
+4.	Sweat: Awkward
+5.	Dandruff: Intimidate
+6.	Cough: Disturb
+7.	Jaundice: Nervous
+8.	Menstruation: Stress
+9.	Burp: Horrific
+10.	Itch: Anxious
+11.	Pimple: Sore
+12.	Fat: Unfit
+13.	Fracture: Crap
+14.	Pyorrhoea: Cavity
+15.	Swell: Absent
+16.	Puff: Habit
+17.	Fart: Anxiety
+18.	Sneeze: Terrific
+19.	Piles: Worry
+20.	Clot: Ecstasy
+21.	Ache: Depress
+22.	Acne: Frighten
+23.	Rash: Mischief
+24.	Spit: Scrap
+25.	Spasm: Leak
+26.	Snore: Block
+::.	Fever: Lethargic
 
 -----------------------------
 
@@ -70,12 +69,6 @@
 25.	Dishonest: Train wreckage
 26.	Propaganda: Social riot
 ::.	Misery: Irregular event
-
------------------------------
-
-*	Storyline: Subtitle
-..	Postcard: Stamp
-::.	Envelope: Ticket
 
 -----------------------------
 -----------------------------

@@ -1,0 +1,22 @@
+-----------------------------
+-----------------------------
+
+*	RuleNumber43: Approximate Idea
+..	Minima: Clean Air
+::.	Maxima: Clear Water
+
+-----------------------------
+-----------------------------
+
+*	Minima: Clean Air
+..	Note: Memorandum List
+::.	Draft: Document Folder
+
+-----------------------------
+
+*	Maxima: Clear Water
+..	Variable: Logarithmic Value
+::.	Constant: Exponential Component
+
+-----------------------------
+-----------------------------

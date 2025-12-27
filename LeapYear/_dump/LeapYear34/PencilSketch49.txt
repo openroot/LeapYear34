@@ -4,7 +4,7 @@
 *	PencilSketch49: Rapid Development
 ..	Power: Lock
 1.	Civil: Department
-2.	Wax: Full Haystack
+26.	Wax: Full Haystack
 ::.	Continent: Ecosystem
 
 -----------------------------

@@ -1,0 +1,48 @@
+-----------------------------
+-----------------------------
+
+*	SpeedDial35: Social Science
+..	Timeline: Caption
+::.	Storyline: Subtitle
+
+-----------------------------
+-----------------------------
+
+*	Timeline: Caption
+..	Greetings: Welcome
+1.	Library
+2.	Profile
+3.	Genre
+4.	Model
+5.	Expert
+6.	Status
+7.	Season
+8.	Career
+9.	Substitute
+10.	Development
+11.	Philosophy
+12.	Mainstream
+13.	Organism
+14.	Hierarchical
+15.	Treasury
+16.	Universal
+17.	Historical
+18.	Multimedia
+19.	Technology
+20.	Official
+21.	Managerial
+22.	Evergreen
+23.	Commercial
+24.	Transitional
+25.	Agreement
+26.	Benchmark
+::.	Breadcrumb: Wizard
+
+-----------------------------
+
+*	Storyline: Subtitle
+..	Postcard: Stamp
+::.	Envelope: Ticket
+
+-----------------------------
+-----------------------------
