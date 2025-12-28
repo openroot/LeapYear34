@@ -12,9 +12,9 @@
 7.	EasyBook34: Environmental Control
 8.	
 9.	
-10.	
+10.	BoardExamination56: Standard Unit
 11.	
-12.	OverTime28: One Minute
+12.	
 13.	HandWriting43: Square Root
 ::.	FossilFuel50: Carbon Footprint
 
