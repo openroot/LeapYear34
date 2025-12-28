@@ -10,7 +10,7 @@
 5.	RuleNumber43: Approximate Idea
 6.	DigitalAge34: The Columnist
 7.	EasyBook34: Environmental Control
-8.	SqareRoot41
+8.	SquareRoot41
 9.	OverTime28
 10.	BloodLine40
 11.	OneMinute37
