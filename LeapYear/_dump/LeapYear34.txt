@@ -10,12 +10,12 @@
 5.	RuleNumber43: Approximate Idea
 6.	DigitalAge34: The Columnist
 7.	EasyBook34: Environmental Control
-8.	SquareRoot41
-9.	OverTime28
-10.	BloodLine40
-11.	OneMinute37
-12.	MyCookbook46
-13.	HandWriting43
+8.	
+9.	
+10.	
+11.	
+12.	OverTime28: One Minute
+13.	HandWriting43: Square Root
 ::.	FossilFuel50: Carbon Footprint
 
 -----------------------------
