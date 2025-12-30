@@ -16,6 +16,15 @@
 11.	SurroundSound59: Square Root
 12.	UserInterface49: Pin Button
 13.	CloudServer44: Automatic Save
+14.	AnalogueMotor56: Daily Requirement
+15.	DisplayUnit48: Dot Pixel
+16.	SiliconChip46: Electronic Device
+17.	SearchEngine44: No Error
+20.	CircuitBoard41: Modern Era
+23.	MetroService43: Planet Earth
+24.	MedicalKit38: Health Policy
+25.	LoremIpsum47: Foo Bar
+26.	DecimalSystem54: Case Study
 ::.	FossilFuel50: Carbon Footprint
 
 -----------------------------
