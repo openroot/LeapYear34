@@ -42,6 +42,32 @@
 
 *	Storyline: Subtitle
 ..	Postcard: Stamp
+1.	Raw
+2.	Value
+3.	Case
+4.	Basic
+5.	Media
+6.	Link
+7.	Source
+8.	Fashion
+9.	Symbol
+10.	Text
+11.	Mail
+12.	Image
+13.	Picture
+14.	Scene
+15.	Audio
+16.	Music
+17.	Video
+18.	Graph
+19.	Define
+20.	Assign
+21.	Sign
+22.	Permit
+23.	Anime
+24.	Star
+25.	Point
+26.	Store
 ::.	Envelope: Ticket
 
 -----------------------------
