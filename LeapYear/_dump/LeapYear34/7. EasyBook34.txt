@@ -42,6 +42,32 @@
 
 *	Functionality: Appliance
 ..	Probability: Object
+1.	Portfolio
+2.	Curriculum
+3.	Designation
+4.	Identification
+5.	Description
+6.	Illustration
+7.	Nomination
+8.	Representation
+9.	Demonstration
+10.	Specification
+11.	Testimonial
+12.	Portrayal
+13.	Interpretation
+14.	Pronunciation
+15.	Augmentation
+16.	Narration
+17.	Manifestation
+18.	Exhibition
+19.	Justification
+20.	Compilation
+21.	Impression
+22.	Declaration
+23.	Corporation
+24.	Profession
+25.	Certification
+26.	Indentation
 ::.	Feasibility: Artifact
 
 -----------------------------
