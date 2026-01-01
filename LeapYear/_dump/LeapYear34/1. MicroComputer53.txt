@@ -9,10 +9,66 @@
 -----------------------------
 
 *	Routine: Personalised Session
+..	Simplex: Simplicity
+1.	Odd
+2.	Even
+3.	Triple
+4.	Ring
+5.	Head
+6.	Row
+7.	Column
+8.	Span
+9.	Index
+10.	Sort
+11.	Set
+12.	Side
+13.	Centre
+14.	Arrow
+15.	Board
+16.	Value
+17.	Compare
+18.	Appendix
+19.	Constant
+20.	Metric
+21.	Variable
+22.	Static
+23.	Factor
+24.	Update
+25.	Upgrade
+26.	Submit
+::.	Complex: Complexity
 
 -----------------------------
 
 *	Schedule: Sophisticated Content
+..	Scalar: Scalability
+1.	Dot
+2.	Test
+3.	Trial
+4.	Cycle
+5.	View
+6.	Dash
+7.	Line
+8.	Base
+9.	Cube
+10.	Edge
+11.	Round
+12.	Serial
+13.	Bracket
+14.	Numeric
+15.	Series
+16.	Union
+17.	Unique
+18.	Parallel
+19.	Standard
+20.	Dimension
+21.	Multiple
+22.	Uniform
+23.	Pattern
+24.	Quotient
+25.	Modulus
+26.	Example
+::.	Vector: Vectorisation
 
 -----------------------------
 -----------------------------
