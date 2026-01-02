@@ -10,12 +10,64 @@
 
 *	Minima: Clean Air
 ..	Note: Memorandum List
+1.	Tag
+2.	Title
+3.	Heading
+4.	Paragraph
+5.	Checklist
+6.	Material
+7.	Content
+8.	Theory
+9.	Division
+10.	Segment
+11.	Section
+12.	Stanza
+13.	Argument
+14.	Hyperlink
+15.	Parameter
+16.	Table
+17.	Inverse
+18.	Opposite
+19.	Distinctive
+20.	Invert
+21.	Synonymous
+22.	Antonymous
+23.	Compound
+24.	Calligraphy
+25.	Subjective
+26.	Stationary
 ::.	Draft: Document Folder
 
 -----------------------------
 
 *	Maxima: Clear Water
 ..	Variable: Logarithmic Value
+1.	Primary
+2.	Secondary
+3.	Tertiary
+4.	Preliminary
+5.	Elementary
+6.	Introductory
+7.	Arithmetic
+8.	Algebraic
+9.	Trigonometry
+10.	Statistics
+11.	Associative
+12.	Proprietary
+13.	Cautionary
+14.	Arbitrary
+15.	Absolute
+16.	Geometry
+17.	Calculus
+18.	Probability
+19.	Discrete
+20.	Topology
+21.	Accountancy
+22.	Economy
+23.	Cryptography
+24.	Reasoning
+25.	Dictionary
+26.	Summary
 ::.	Constant: Exponential Component
 
 -----------------------------
