@@ -2,6 +2,21 @@
 -----------------------------
 
 *	FossilFuel50: Carbon Footprint
+..	Industry: Manufacturing Hub
+::.	Marketplace: Consumer Forum
+
+-----------------------------
+-----------------------------
+
+*	Industry: Manufacturing Hub
+..	Logo: Core Asset
+::.	Brand: Basic Resource
+
+-----------------------------
+
+*	Marketplace: Consumer Forum
+..	Label: Organisational Policy
+::.	Address: Trade Association
 
 -----------------------------
 -----------------------------

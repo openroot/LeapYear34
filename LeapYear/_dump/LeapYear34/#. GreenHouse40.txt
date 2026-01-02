@@ -2,6 +2,21 @@
 -----------------------------
 
 *	GreenHouse40: Three Dimensional
+..	Design: Project Documentation
+::.	Architecture: Conceptual Planning
+
+-----------------------------
+-----------------------------
+
+*	Design: Project Documentation
+..	Push: Catalogue
+::.	Pull: Directory
+
+-----------------------------
+
+*	Architecture: Conceptual Planning
+..	Layer: Prototype
+::.	Level: Infrastructure
 
 -----------------------------
 -----------------------------

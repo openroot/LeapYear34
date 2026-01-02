@@ -2,6 +2,21 @@
 -----------------------------
 
 *	DigitalAge34: The Columnist
+..	Stack: Differential Equation
+::.	Queue: Integral Expression
+
+-----------------------------
+-----------------------------
+
+*	Stack: Differential Equation
+..	Initial: Generic Structure
+::.	Concentration: Distributed Dataset
+
+-----------------------------
+
+*	Queue: Integral Expression
+..	Aspect: Product Interface
+::.	Resolution: Contextual Modelling
 
 -----------------------------
 -----------------------------
