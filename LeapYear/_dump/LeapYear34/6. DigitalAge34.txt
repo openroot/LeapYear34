@@ -10,64 +10,64 @@
 
 *	Stack: Differential Equation
 ..	Initial: Generic Structure
-1.	
-2.	
-3.	
-4.	
-5.	
-6.	
-7.	
-8.	
-9.	
-10.	
-11.	
-12.	
-13.	
-14.	
-15.	
-16.	
-17.	
-18.	
-19.	
-20.	
-21.	
-22.	
-23.	
-24.	
-25.	
-26.	
+1.	Abstract
+2.	Style
+3.	Order
+4.	Rank
+5.	Syntax
+6.	Variant
+7.	Symbol
+8.	Single
+9.	Double
+10.	Triple
+11.	Schema
+12.	Entity
+13.	Active
+14.	Passive
+15.	Format
+16.	Theorem
+17.	Debit
+18.	Credit
+19.	Balance
+20.	Formula
+21.	Cascade
+22.	Asterisk
+23.	History
+24.	Grade
+25.	Plain
+26.	Service
 ::.	Concentration: Distributed Dataset
 
 -----------------------------
 
 *	Queue: Integral Expression
 ..	Aspect: Product Interface
-1.	
-2.	
-3.	
-4.	
-5.	
-6.	
-7.	
-8.	
-9.	
-10.	
-11.	
-12.	
-13.	
-14.	
-15.	
-16.	
-17.	
-18.	
-19.	
-20.	
-21.	
-22.	
-23.	
-24.	
-25.	
-26.	
+1.	Form
+2.	List
+3.	Token
+4.	Ticket
+5.	Coupon
+6.	Batch
+7.	Group
+8.	Theta
+9.	Lambda
+10.	Alpha
+11.	Beta
+12.	Gamma
+13.	Storage
+14.	Channel
+15.	Fixture
+16.	Process
+17.	Rational
+18.	Imaginary
+19.	Virtual
+20.	Logical
+21.	Branch
+22.	Badge
+23.	Trace
+24.	Quotation
+25.	Calendar
+26.	Constraint
 ::.	Resolution: Contextual Modelling
 
 -----------------------------
