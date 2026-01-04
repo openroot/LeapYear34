@@ -20,12 +20,12 @@
 8.	
 9.	
 10.	Pool
-11.	
+11.	Price
 12.	
 13.	Echo
 14.	Step
 15.	
-16.	
+16.	Office
 17.	Vivid
 18.	
 19.	
@@ -52,12 +52,12 @@
 8.	
 9.	
 10.	Device
-11.	
+11.	Cart
 12.	
 13.	Wrap
 14.	Machine
 15.	
-16.	
+16.	Package
 17.	Coherent
 18.	
 19.	
