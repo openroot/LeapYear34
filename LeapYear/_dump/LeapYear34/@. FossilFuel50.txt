@@ -13,26 +13,26 @@
 1.	Ready
 2.	
 3.	
-4.	
+4.	Rate
 5.	
 6.	
-7.	
+7.	Reset
 8.	
 9.	
-10.	
+10.	Pool
 11.	
 12.	
-13.	
-14.	
+13.	Echo
+14.	Step
 15.	
 16.	
-17.	
+17.	Vivid
 18.	
 19.	
-20.	
+20.	Urgent
 21.	
 22.	
-23.	
+23.	Delivery
 24.	
 25.	
 26.	Create
@@ -45,26 +45,26 @@
 1.	Make
 2.	
 3.	
-4.	
+4.	Tool
 5.	
 6.	
-7.	
+7.	Cabin
 8.	
 9.	
-10.	
+10.	Device
 11.	
 12.	
-13.	
-14.	
+13.	Wrap
+14.	Machine
 15.	
 16.	
-17.	
+17.	Coherent
 18.	
 19.	
-20.	
+20.	Factory
 21.	
 22.	
-23.	
+23.	Operation
 24.	
 25.	
 26.	Build
