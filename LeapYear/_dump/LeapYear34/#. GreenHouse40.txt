@@ -11,30 +11,30 @@
 *	Design: Project Documentation
 ..	Push: Catalogue
 1.	Bit
-2.	
-3.	
+2.	Log
+3.	Tip
 4.	Memory
-5.	
-6.	
+5.	Switch
+6.	Button
 7.	Encode
-8.	
-9.	
+8.	Publish
+9.	Cube
 10.	Math
 11.	Press
-12.	
+12.	Flag
 13.	Art
 14.	Legal
-15.	
+15.	Icon
 16.	Card
 17.	Panel
-18.	
-19.	
+18.	Shape
+19.	Method
 20.	Decode
-21.	
-22.	
+21.	Function
+22.	Texture
 23.	Version
-24.	
-25.	
+24.	Gradient
+25.	Language
 26.	Node
 ::.	Pull: Directory
 
@@ -43,30 +43,30 @@
 *	Architecture: Conceptual Planning
 ..	Layer: Prototype
 1.	Frame
-2.	
-3.	
+2.	Top
+3.	Rule
 4.	Unit
-5.	
-6.	
+5.	Roll
+6.	Hint
 7.	Time
-8.	
-9.	
+8.	Post
+9.	Dice
 10.	Tier
 11.	Part
-12.	
+12.	Port
 13.	Key
 14.	Flat
-15.	
+15.	Scope
 16.	Mobile
 17.	Size
-18.	
-19.	
+18.	Opaque
+19.	Figure
 20.	Date
-21.	
-22.	
+21.	Result
+22.	Average
 23.	Volume
-24.	
-25.	
+24.	Security
+25.	Structure
 26.	Statue
 ::.	Level: Infrastructure
 

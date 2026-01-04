@@ -11,30 +11,30 @@
 *	Industry: Manufacturing Hub
 ..	Logo: Core Asset
 1.	Ready
-2.	
-3.	
+2.	Role
+3.	Pass
 4.	Rate
-5.	
-6.	
+5.	Cross
+6.	Screen
 7.	Reset
-8.	
-9.	
+8.	Letter
+9.	Draw
 10.	Pool
 11.	Price
-12.	
+12.	Type
 13.	Echo
 14.	Step
-15.	
+15.	Team
 16.	Office
 17.	Vivid
-18.	
-19.	
+18.	Watch
+19.	Admin
 20.	Urgent
-21.	
-22.	
+21.	Console
+22.	Emulator
 23.	Delivery
-24.	
-25.	
+24.	Register
+25.	Module
 26.	Create
 ::.	Brand: Basic Resource
 
@@ -43,30 +43,30 @@
 *	Marketplace: Consumer Forum
 ..	Label: Organisational Policy
 1.	Make
-2.	
-3.	
+2.	Cast
+3.	Term
 4.	Tool
-5.	
-6.	
+5.	Tram
+6.	Buzzer
 7.	Cabin
-8.	
-9.	
+8.	Report
+9.	Task
 10.	Device
 11.	Cart
-12.	
+12.	Rail
 13.	Wrap
 14.	Machine
-15.	
+15.	Sensor
 16.	Package
 17.	Coherent
-18.	
-19.	
+18.	Community
+19.	Command
 20.	Factory
-21.	
-22.	
+21.	Property
+22.	Accessory
 23.	Operation
-24.	
-25.	
+24.	Reference
+25.	Attribute
 26.	Build
 ::.	Address: Trade Association
 
