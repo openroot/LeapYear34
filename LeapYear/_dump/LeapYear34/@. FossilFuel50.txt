@@ -12,7 +12,7 @@
 ..	Logo: Core Asset
 1.	Ready: Iteration Process
 2.	Role: Application Principle
-3.	Pass
+3.	Pass: Core Feature
 4.	Rate
 5.	Cross
 6.	Screen
@@ -33,7 +33,7 @@
 21.	Console
 22.	Emulator
 23.	Delivery
-24.	Register
+24.	Register: Reminder Notice
 25.	Module: Authorised Connection
 26.	Create: Incidental Event
 ::.	Brand: Basic Resource
@@ -44,7 +44,7 @@
 ..	Label: Organisational Policy
 1.	Make: Program Ethics
 2.	Cast: Quick Settings
-3.	Term
+3.	Term: Ideal Facility
 4.	Tool
 5.	Tram
 6.	Buzzer
@@ -65,7 +65,7 @@
 21.	Property
 22.	Accessory
 23.	Operation
-24.	Reference
+24.	Reference: Entitled Extension
 25.	Attribute: Parallel Source
 26.	Build: Peripheral System
 ::.	Address: Trade Association
