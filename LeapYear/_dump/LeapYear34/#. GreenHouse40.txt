@@ -11,7 +11,7 @@
 *	Design: Project Documentation
 ..	Push: Master Catalogue
 1.	Bit: Static Line
-2.	Log
+2.	Log: Number Stack
 3.	Tip
 4.	Memory
 5.	Switch
@@ -34,7 +34,7 @@
 22.	Texture
 23.	Version
 24.	Gradient
-25.	Language
+25.	Language: Auxiliary Verb
 26.	Node: Dynamic Value
 ::.	Pull: Main Directory
 
@@ -43,7 +43,7 @@
 *	Architecture: Conceptual Planning
 ..	Layer: Pre Prototype
 1.	Frame: Default Template
-2.	Top
+2.	Top: Custom Specification
 3.	Rule
 4.	Unit
 5.	Roll
@@ -66,7 +66,7 @@
 22.	Average
 23.	Volume
 24.	Security
-25.	Structure
+25.	Structure: Coefficient Factor
 26.	Statue: Workspace Diary
 ::.	Level: Post Infrastructure
 
