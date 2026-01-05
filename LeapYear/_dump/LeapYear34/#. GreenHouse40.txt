@@ -9,8 +9,8 @@
 -----------------------------
 
 *	Design: Project Documentation
-..	Push: Catalogue
-1.	Bit
+..	Push: Master Catalogue
+1.	Bit: Static Line
 2.	Log
 3.	Tip
 4.	Memory
@@ -35,14 +35,14 @@
 23.	Version
 24.	Gradient
 25.	Language
-26.	Node
-::.	Pull: Directory
+26.	Node: Dynamic Value
+::.	Pull: Main Directory
 
 -----------------------------
 
 *	Architecture: Conceptual Planning
-..	Layer: Prototype
-1.	Frame
+..	Layer: Pre Prototype
+1.	Frame: Default Template
 2.	Top
 3.	Rule
 4.	Unit
@@ -67,8 +67,8 @@
 23.	Volume
 24.	Security
 25.	Structure
-26.	Statue
-::.	Level: Infrastructure
+26.	Statue: Workspace Diary
+::.	Level: Post Infrastructure
 
 -----------------------------
 -----------------------------
