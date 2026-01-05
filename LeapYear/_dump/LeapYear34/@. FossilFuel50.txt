@@ -10,7 +10,7 @@
 
 *	Industry: Manufacturing Hub
 ..	Logo: Core Asset
-1.	Ready
+1.	Ready: Iteration Process
 2.	Role
 3.	Pass
 4.	Rate
@@ -35,14 +35,14 @@
 23.	Delivery
 24.	Register
 25.	Module
-26.	Create
+26.	Create: Incidental Event
 ::.	Brand: Basic Resource
 
 -----------------------------
 
 *	Marketplace: Consumer Forum
 ..	Label: Organisational Policy
-1.	Make
+1.	Make: Program Ethics
 2.	Cast
 3.	Term
 4.	Tool
@@ -67,7 +67,7 @@
 23.	Operation
 24.	Reference
 25.	Attribute
-26.	Build
+26.	Build: Peripheral System
 ::.	Address: Trade Association
 
 -----------------------------
