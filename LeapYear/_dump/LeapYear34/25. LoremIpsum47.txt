@@ -2,8 +2,47 @@
 -----------------------------
 
 *	LoremIpsum47: Foo Bar
-10.	Infection: Allergy
-17.	Sorrow: Basic anomalies
+..	Void: Original Copy
+::.	Guarantee: Reclaim Warranty
+
+-----------------------------
+-----------------------------
+
+*	Void: Original Copy
+..	String: Input Serialisation
+::.	Integer: Output Deserialisation
+
+-----------------------------
+
+*	Guarantee: Reclaim Warranty
+..	Infection: Allergy
+1.	Renewal: Crashed Item
+2.	Replacement: Broken Part
+3.	Destruction: Junk Set
+4.	Modification: Reused Group
+5.	Restoration: Failed Section
+6.	Rebrand : Missing Phase
+7.	Renamed : Stolen Identity
+8.	Alteration: Useless Condition
+9.	Rearrangement: Dumped Material
+10.	Suspension: Unavailable Case
+11.	Discarded: Trashed Content
+12.	Refurbishment: Odd Collection
+13.	Devaluation: Rough Work
+14.	Reinsurance
+15.	Ramification
+16.	Reunion
+17.	Reorder
+18.	Retreat
+19.	Release
+20.	Recreation
+21.	Retirement
+22.	Repayment
+23.	Reconcile
+24.	Recession
+25.	Rewrite
+26.	Return
+::.	Sorrowful: Basic Anomalies
 
 -----------------------------
 -----------------------------
@@ -40,35 +79,35 @@
 
 -----------------------------
 
-*	Sorrow: Basic anomalies
-..	Misogyny: Calendar loss
-1.	Suffer: Natural disaster
+*	Sorrowful: Basic Anomalies
+..	Misogyny: Calendar Loss
+1.	Suffer: Natural Disaster
 2.	Unfortunate: Accident
-3.	Exile: Communal violence
+3.	Exile: Communal Violence
 4.	Barbaric: Terrorism
-5.	Cheat: Major forgery
-6.	Abuse: Crowd mismanagement
-7.	Monster: Viral disease
-8.	Desperate: Public food poisoning
-9.	Militant: War victim
-10.	Extremist: Industrial turmoil
-11.	Harmful: Weather devastation
-12.	Ignorant: Confusion in justice system
-13.	Tension: Failed institution
-14.	Evil: Missing family member
+5.	Cheat: Major Forgery
+6.	Abuse: Crowd Mismanagement
+7.	Monster: Viral Disease
+8.	Desperate: Public Food Poisoning
+9.	Militant: War Victim
+10.	Extremist: Industrial Turmoil
+11.	Harmful: Weather Devastation
+12.	Ignorant: Confusion In Justice System
+13.	Tension: Failed Institution
+14.	Evil: Missing Family Member
 15.	Torture: Suicide
-16.	Fight: Unresolved killing
+16.	Fight: Unresolved Killing
 17.	Myth: Catastrophe
-18.	Immature: Child abuse
-19.	Irrelevant: Electrical explosion
-20.	Demon: Wild animal attack
-21.	Slang: Sick old people
-22.	Fraudster: Disabled citizen
-23.	Grim: Malnutrition in children
-24.	Expel: Wrong medication
-25.	Dishonest: Train wreckage
-26.	Propaganda: Social riot
-::.	Misery: Irregular event
+18.	Immature: Child Abuse
+19.	Irrelevant: Electrical Explosion
+20.	Demon: Wild Animal Attack
+21.	Slang: Sick Old People
+22.	Fraudster: Disabled Citizen
+23.	Grim: Malnutrition In Children
+24.	Expel: Wrong Medication
+25.	Dishonest: Train Wreckage
+26.	Propaganda: Social Riot
+::.	Misery: Irregular Event
 
 -----------------------------
 -----------------------------
