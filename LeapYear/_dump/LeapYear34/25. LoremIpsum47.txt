@@ -132,8 +132,8 @@
 22.	Repayment
 23.	Reconcile
 24.	Recession
-25.	Rewrite
-26.	Return
+25.	Rewrite: Wrong Format
+26.	Return: Wasted Product
 ::.	Assessments: Quiz Result
 
 -----------------------------
