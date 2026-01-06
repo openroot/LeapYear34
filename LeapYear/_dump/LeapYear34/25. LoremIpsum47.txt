@@ -15,7 +15,7 @@
 -----------------------------
 
 *	Guarantee: Reclaim Warranty
-..	Infection: Allergy
+..	Intuition: Render Puzzle
 1.	Renewal: Crashed Item
 2.	Replacement: Broken Part
 3.	Destruction: Junk Set
@@ -42,7 +42,7 @@
 24.	Recession
 25.	Rewrite
 26.	Return
-::.	Sorrowful: Basic Anomalies
+::.	Assessments: Quiz Result
 
 -----------------------------
 -----------------------------
