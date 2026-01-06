@@ -3,6 +3,8 @@
 
 *	LoremIpsum47: Foo Bar
 ..	Void: Original Copy
+7.	Infection: Allergy
+20.	Sorrowful: Basic Anomalies
 ::.	Guarantee: Reclaim Warranty
 
 -----------------------------
@@ -38,39 +40,6 @@
 26.	
 ::.	Integer: Output Deserialisation
 
------------------------------
-
-*	Guarantee: Reclaim Warranty
-..	Intuition: Render Puzzle
-1.	Renewal: Crashed Item
-2.	Replacement: Broken Part
-3.	Destruction: Junk Set
-4.	Modification: Reused Group
-5.	Restoration: Failed Section
-6.	Rebrand : Missing Phase
-7.	Renamed : Stolen Identity
-8.	Alteration: Useless Condition
-9.	Rearrangement: Dumped Material
-10.	Suspension: Unavailable Case
-11.	Discarded: Trashed Content
-12.	Refurbishment: Odd Collection
-13.	Devaluation: Rough Work
-14.	Reinsurance
-15.	Ramification
-16.	Reunion
-17.	Reorder
-18.	Retreat
-19.	Release
-20.	Recreation
-21.	Retirement
-22.	Repayment
-23.	Reconcile
-24.	Recession
-25.	Rewrite
-26.	Return
-::.	Assessments: Quiz Result
-
------------------------------
 -----------------------------
 
 *	Infection: Allergy
@@ -134,6 +103,38 @@
 25.	Dishonest: Train Wreckage
 26.	Propaganda: Social Riot
 ::.	Misery: Irregular Event
+
+-----------------------------
+
+*	Guarantee: Reclaim Warranty
+..	Intuition: Render Puzzle
+1.	Renewal: Crashed Item
+2.	Replacement: Broken Part
+3.	Destruction: Junk Set
+4.	Modification: Reused Group
+5.	Restoration: Failed Section
+6.	Rebrand : Missing Phase
+7.	Renamed : Stolen Identity
+8.	Alteration: Useless Condition
+9.	Rearrangement: Dumped Material
+10.	Suspension: Unavailable Case
+11.	Discarded: Trashed Content
+12.	Refurbishment: Odd Collection
+13.	Devaluation: Rough Work
+14.	Reinsurance
+15.	Ramification
+16.	Reunion
+17.	Reorder
+18.	Retreat
+19.	Release
+20.	Recreation
+21.	Retirement
+22.	Repayment
+23.	Reconcile
+24.	Recession
+25.	Rewrite
+26.	Return
+::.	Assessments: Quiz Result
 
 -----------------------------
 -----------------------------
