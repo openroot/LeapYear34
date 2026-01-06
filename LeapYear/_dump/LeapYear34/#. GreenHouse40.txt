@@ -13,10 +13,10 @@
 1.	Bit: Static Line
 2.	Log: Number Stack
 3.	Tip: Responsive Snippet
-4.	Memory
-5.	Switch
-6.	Button
-7.	Encode
+4.	Memory: Scientific Definition
+5.	Switch: Arithmetic Progression
+6.	Button: Geometric Progression
+7.	Encode: Harmonic Progression
 8.	Publish
 9.	Cube
 10.	Math
@@ -45,10 +45,10 @@
 1.	Frame: Default Template
 2.	Top: Custom Specification
 3.	Rule: Transactional Protocol
-4.	Unit
-5.	Roll
-6.	Hint
-7.	Time
+4.	Unit: Mathematical Pattern
+5.	Roll: Consecutive Element
+6.	Hint: Prism Lens
+7.	Time: Timestamp Elapse
 8.	Post
 9.	Dice
 10.	Tier
