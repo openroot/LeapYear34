@@ -113,8 +113,8 @@
 3.	Destruction: Junk Set
 4.	Modification: Reused Group
 5.	Restoration: Failed Section
-6.	Rebrand : Missing Phase
-7.	Renamed : Stolen Identity
+6.	Rebrand: Missing Phase
+7.	Renamed: Stolen Identity
 8.	Alteration: Useless Condition
 9.	Rearrangement: Dumped Material
 10.	Suspension: Unavailable Case
