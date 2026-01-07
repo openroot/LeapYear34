@@ -22,8 +22,8 @@
 10.	Pool
 11.	Price
 12.	Type
-13.	Echo
-14.	Step
+13.	Echo: Constructive Loop
+14.	Step: Destructive Colon
 15.	Team
 16.	Office
 17.	Vivid
@@ -54,8 +54,8 @@
 10.	Device
 11.	Cart
 12.	Rail
-13.	Wrap
-14.	Machine
+13.	Wrap: Dual Channel
+14.	Machine: Binary Bit
 15.	Sensor
 16.	Package
 17.	Coherent

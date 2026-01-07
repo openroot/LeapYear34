@@ -22,8 +22,8 @@
 10.	Math
 11.	Press
 12.	Flag
-13.	Art
-14.	Legal
+13.	Art: Cursor Location
+14.	Legal: Ampersand Pointer
 15.	Icon
 16.	Card
 17.	Panel
@@ -54,8 +54,8 @@
 10.	Tier
 11.	Part
 12.	Port
-13.	Key
-14.	Flat
+13.	Key: Cyber Technique
+14.	Flat: Equivalent Socket
 15.	Scope
 16.	Mobile
 17.	Size
