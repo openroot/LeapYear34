@@ -29,7 +29,7 @@
 17.	Panel
 18.	Shape
 19.	Method
-20.	Decode
+20.	Decode: Recursion Mechanism
 21.	Function
 22.	Texture
 23.	Version
@@ -61,7 +61,7 @@
 17.	Size
 18.	Opaque
 19.	Figure
-20.	Date
+20.	Date: Calendar Year
 21.	Result
 22.	Average
 23.	Volume

@@ -29,7 +29,7 @@
 17.	Vivid
 18.	Watch
 19.	Admin
-20.	Urgent
+20.	Urgent: Toggle Parameter
 21.	Console
 22.	Emulator
 23.	Delivery
@@ -61,7 +61,7 @@
 17.	Coherent
 18.	Community
 19.	Command
-20.	Factory
+20.	Factory: Digital Calculator
 21.	Property
 22.	Accessory
 23.	Operation
