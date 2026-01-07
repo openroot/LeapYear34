@@ -121,17 +121,17 @@
 11.	Discarded: Trashed Content
 12.	Refurbishment: Odd Collection
 13.	Devaluation: Rough Work
-14.	Reinsurance
-15.	Ramification
-16.	Reunion
-17.	Reorder
-18.	Retreat
-19.	Release
-20.	Recreation
-21.	Retirement
-22.	Repayment
-23.	Reconcile
-24.	Recession
+14.	Reinsurance: Absent Stuff
+15.	Ramification: Unattended Issue
+16.	Reunion: Degraded Substance
+17.	Reorder: Informal Attire
+18.	Retreat: Compromised Package
+19.	Release: Invalid Instrument
+20.	Recreation: Decomposed Element
+21.	Retirement: Broken Seal
+22.	Repayment: Manipulated Style
+23.	Reconcile: Unknown Property
+24.	Recession: Abnormal Attribute
 25.	Rewrite: Wrong Format
 26.	Return: Wasted Product
 ::.	Assessments: Quiz Result
