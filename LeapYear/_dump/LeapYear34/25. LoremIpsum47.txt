@@ -12,32 +12,32 @@
 
 *	Void: Original Copy
 ..	String: Input Serialisation
-1.	Screw
-2.	Solder
-3.	Ticker
-4.	Printer
-5.	Meter
-6.	Tape
-7.	Plug
-8.	Cell
-9.	Box
-10.	Clock
-11.	Marker
-12.	Pallet
-13.	Chip
-14.	Relay
-15.	Crate
-16.	Horn
-17.	Tripper
-18.	Vault
-19.	Bin
-20.	Wire
-21.	Fuse
-22.	Scale
-23.	Scanner
-24.	Binder
-25.	Charger
-26.	Light
+1.	Screw: Revised Edition
+2.	Solder: Bounce Rate
+3.	Ticker: Open Account
+4.	Printer: Automatic Gesture
+5.	Meter: Periodic Motion
+6.	Tape: Fiscal Report
+7.	Plug: Present Trend
+8.	Cell: Power Caret
+9.	Box: Universal Function
+10.	Clock: Economic Option
+11.	Marker: Letterhead Character
+12.	Pallet: Operating System
+13.	Chip: Computable Asset
+14.	Relay: Expert Toolkit
+15.	Crate: Transitional Limit
+16.	Horn: Volume Test
+17.	Tripper: Mechanical Stand
+18.	Vault: Current Balance
+19.	Bin: Power Bank
+20.	Wire: Synthetic Type
+21.	Fuse: Electronic Stabiliser
+22.	Scale: Transmission Control
+23.	Scanner: File Permission
+24.	Binder: Total Tolerance
+25.	Charger: Threshold Value
+26.	Light: Central Study
 ::.	Integer: Output Deserialisation
 
 -----------------------------
