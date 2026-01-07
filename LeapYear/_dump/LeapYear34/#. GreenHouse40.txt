@@ -30,9 +30,9 @@
 18.	Shape
 19.	Method
 20.	Decode: Recursion Mechanism
-21.	Function
-22.	Texture
-23.	Version
+21.	Function: Symmetrical Key
+22.	Texture: Asymmetrical Value
+23.	Version: Continuous Pair
 24.	Gradient: Contact Certificate
 25.	Language: Auxiliary Verb
 26.	Node: Dynamic Value
@@ -62,9 +62,9 @@
 18.	Opaque
 19.	Figure
 20.	Date: Calendar Year
-21.	Result
-22.	Average
-23.	Volume
+21.	Result: Administrative Board
+22.	Average: Premium Storage
+23.	Volume: Database Management
 24.	Security: Sequential Profile
 25.	Structure: Coefficient Factor
 26.	Statue: Workspace Diary

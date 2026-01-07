@@ -30,9 +30,9 @@
 18.	Watch
 19.	Admin
 20.	Urgent: Toggle Parameter
-21.	Console
-22.	Emulator
-23.	Delivery
+21.	Console: Platform Clipboard
+22.	Emulator: Symbolic Breakpoint
+23.	Delivery: Delegation Menu
 24.	Register: Reminder Notice
 25.	Module: Authorised Connection
 26.	Create: Incidental Event
@@ -62,9 +62,9 @@
 18.	Community
 19.	Command
 20.	Factory: Digital Calculator
-21.	Property
-22.	Accessory
-23.	Operation
+21.	Property: Maximum Frequency
+22.	Accessory: Minimum Subscription
+23.	Operation: Workflow Mode
 24.	Reference: Entitled Extension
 25.	Attribute: Parallel Source
 26.	Build: Peripheral System
