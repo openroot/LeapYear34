@@ -18,17 +18,17 @@
 6.	Screen: Neutral Space
 7.	Reset: Negative Snapshot
 8.	Letter
-9.	Draw
-10.	Pool
+9.	Draw: Serial Inventory
+10.	Pool: Internal Unit
 11.	Price
 12.	Type
 13.	Echo: Constructive Loop
 14.	Step: Destructive Colon
 15.	Team
 16.	Office
-17.	Vivid
-18.	Watch
-19.	Admin
+17.	Vivid: External Unit
+18.	Watch: Blockchain Series
+19.	Admin: Telemetric Identity
 20.	Urgent: Toggle Parameter
 21.	Console: Platform Clipboard
 22.	Emulator: Symbolic Breakpoint
@@ -50,17 +50,17 @@
 6.	Buzzer: Action Priority
 7.	Cabin: Age Group
 8.	Report
-9.	Task
-10.	Device
+9.	Task: Mainstream Agent
+10.	Device: Smart Account
 11.	Cart
 12.	Rail
 13.	Wrap: Dual Channel
 14.	Machine: Binary Bit
 15.	Sensor
 16.	Package
-17.	Coherent
-18.	Community
-19.	Command
+17.	Coherent: Financial Score
+18.	Community: Enterprise Contact
+19.	Command: Internet Protocol
 20.	Factory: Digital Calculator
 21.	Property: Maximum Frequency
 22.	Accessory: Minimum Subscription

@@ -19,14 +19,14 @@
 7.	Encode: Harmonic Progression
 8.	Publish
 9.	Cube
-10.	Math
+10.	Math: Capital Investment
 11.	Press
 12.	Flag
 13.	Art: Cursor Location
 14.	Legal: Ampersand Pointer
 15.	Icon
 16.	Card
-17.	Panel
+17.	Panel: Professional Domain
 18.	Shape
 19.	Method
 20.	Decode: Recursion Mechanism
@@ -51,14 +51,14 @@
 7.	Time: Timestamp Elapse
 8.	Post
 9.	Dice
-10.	Tier
+10.	Tier: Synchronise Host
 11.	Part
 12.	Port
 13.	Key: Cyber Technique
 14.	Flat: Equivalent Socket
 15.	Scope
 16.	Mobile
-17.	Size
+17.	Size: Volumetric Drum
 18.	Opaque
 19.	Figure
 20.	Date: Calendar Year
