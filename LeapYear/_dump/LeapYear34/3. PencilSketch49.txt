@@ -18,10 +18,10 @@
 4.	Lever: Set
 5.	Heat: Map
 6.	Torque: Angle
-7.	Coin: Value
-8.	Class: Icon
-9.	Paper: Weight
-10.	Mineral: Cell
+7.	Ion: Valve
+8.	Nucleus: Current
+9.	Atom: Gravity
+10.	Quark: Phase
 11.	Magnet: Coil
 12.	Instrument: Band
 13.	Stone: Grade
