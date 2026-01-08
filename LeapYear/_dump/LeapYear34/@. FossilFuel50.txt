@@ -17,15 +17,15 @@
 5.	Cross: Positive Increment
 6.	Screen: Neutral Space
 7.	Reset: Negative Snapshot
-8.	Letter
+8.	Letter: Interactive Column
 9.	Draw: Serial Inventory
 10.	Pool: Internal Unit
-11.	Price
-12.	Type
+11.	Price: Mirror Chart
+12.	Type: Countdown Row
 13.	Echo: Constructive Loop
 14.	Step: Destructive Colon
-15.	Team
-16.	Office
+15.	Team: Addon Comment
+16.	Office: Plugin Diagram
 17.	Vivid: External Unit
 18.	Watch: Blockchain Series
 19.	Admin: Telemetric Identity
@@ -49,15 +49,15 @@
 5.	Tram: Anchor Window
 6.	Buzzer: Action Priority
 7.	Cabin: Age Group
-8.	Report
+8.	Report: Appendix Map
 9.	Task: Mainstream Agent
 10.	Device: Smart Account
-11.	Cart
-12.	Rail
+11.	Cart: Multiline Zip
+12.	Rail: Syntactical Graph
 13.	Wrap: Dual Channel
 14.	Machine: Binary Bit
-15.	Sensor
-16.	Package
+15.	Sensor: Hypertext Medium
+16.	Package: Supply Outline
 17.	Coherent: Financial Score
 18.	Community: Enterprise Contact
 19.	Command: Internet Protocol

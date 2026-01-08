@@ -17,18 +17,18 @@
 5.	Switch: Arithmetic Progression
 6.	Button: Geometric Progression
 7.	Encode: Harmonic Progression
-8.	Publish
-9.	Cube
+8.	Publish: Streaming Effect
+9.	Cube: List Circulation
 10.	Math: Capital Investment
-11.	Press
-12.	Flag
+11.	Press: Multimedia Index
+12.	Flag: Plan Attachment
 13.	Art: Cursor Location
 14.	Legal: Ampersand Pointer
-15.	Icon
-16.	Card
+15.	Icon: Fix Illustration
+16.	Card: Document Matrix
 17.	Panel: Professional Domain
-18.	Shape
-19.	Method
+18.	Shape: Tag Classification
+19.	Method: Categorical Solution
 20.	Decode: Recursion Mechanism
 21.	Function: Symmetrical Key
 22.	Texture: Asymmetrical Value
@@ -49,18 +49,18 @@
 5.	Roll: Consecutive Element
 6.	Hint: Prism Lens
 7.	Time: Timestamp Elapse
-8.	Post
-9.	Dice
+8.	Post: Index Character
+9.	Dice: Concurrent Form
 10.	Tier: Synchronise Host
-11.	Part
-12.	Port
+11.	Part: Logical Conversion
+12.	Port: Hotspot Development
 13.	Key: Cyber Technique
 14.	Flat: Equivalent Socket
-15.	Scope
-16.	Mobile
+15.	Scope: Data Encapsulation
+16.	Mobile: Relative Expression
 17.	Size: Volumetric Drum
-18.	Opaque
-19.	Figure
+18.	Opaque: Wireframe Scheme
+19.	Figure: Monochrome Design
 20.	Date: Calendar Year
 21.	Result: Administrative Board
 22.	Average: Premium Storage
