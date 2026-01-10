@@ -1,0 +1,72 @@
+-----------------------------
+-----------------------------
+
+*	LetSemester44: Carriage Return
+
+-----------------------------
+-----------------------------
+
+*	Infection: Allergy
+..	Virus: Vomit
+1.	Latrine: Odour
+2.	Toilet: Spoil
+3.	Gastric: Constipation
+4.	Sweat: Awkward
+5.	Dandruff: Intimidate
+6.	Cough: Disturb
+7.	Jaundice: Nervous
+8.	Menstruation: Stress
+9.	Burp: Horrific
+10.	Itch: Anxious
+11.	Pimple: Sore
+12.	Fat: Unfit
+13.	Fracture: Crap
+14.	Pyorrhoea: Cavity
+15.	Swell: Absent
+16.	Puff: Habit
+17.	Fart: Anxiety
+18.	Sneeze: Terrific
+19.	Piles: Worry
+20.	Clot: Ecstasy
+21.	Ache: Depress
+22.	Acne: Frighten
+23.	Rash: Mischief
+24.	Spit: Scrap
+25.	Spasm: Leak
+26.	Snore: Block
+::.	Fever: Lethargic
+
+-----------------------------
+
+*	Sorrowful: Basic Anomalies
+..	Misogyny: Calendar Loss
+1.	Suffer: Natural Disaster
+2.	Unfortunate: Accident
+3.	Exile: Communal Violence
+4.	Barbaric: Terrorism
+5.	Cheat: Major Forgery
+6.	Abuse: Crowd Mismanagement
+7.	Monster: Viral Disease
+8.	Desperate: Public Food Poisoning
+9.	Militant: War Victim
+10.	Extremist: Industrial Turmoil
+11.	Harmful: Weather Devastation
+12.	Ignorant: Confusion In Justice System
+13.	Tension: Failed Institution
+14.	Evil: Missing Family Member
+15.	Torture: Suicide
+16.	Fight: Unresolved Killing
+17.	Myth: Catastrophe
+18.	Immature: Child Abuse
+19.	Irrelevant: Electrical Explosion
+20.	Demon: Wild Animal Attack
+21.	Slang: Sick Old People
+22.	Fraudster: Disabled Citizen
+23.	Grim: Malnutrition In Children
+24.	Expel: Wrong Medication
+25.	Dishonest: Train Wreckage
+26.	Propaganda: Social Riot
+::.	Misery: Irregular Event
+
+-----------------------------
+-----------------------------

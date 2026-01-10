@@ -3,8 +3,6 @@
 
 *	PencilSketch49: Rapid Development
 ..	Power: Lock
-1.	Civil: Department
-26.	Wax: Full Haystack
 ::.	Continent: Ecosystem
 
 -----------------------------
@@ -39,70 +37,6 @@
 25.	Electric: Speed
 26.	Fire: Matrix
 ::.	Nuclear: Fission
-
------------------------------
-
-*	Civil: Department
-..	Family: Trees
-1.	Marriage: Classic
-2.	Children: Present
-3.	Medication: Separate
-4.	Insurance: Read
-5.	Society: Difference
-6.	Freedom: Computer
-7.	Systems: Detail
-8.	Security: Deposit
-9.	Tradition: Process
-10.	Population: Pulse
-11.	Judiciary: Property
-12.	Management: Company
-13.	Community: Companion
-14.	Culture: Wear
-15.	Institution: Coverage
-16.	Rights: Behaviour
-17.	Organisation: Infrastructure
-18.	Residential: Architecture
-19.	Services: Policy
-20.	Authority: License
-21.	Religion: Sense
-22.	Discipline: Direction
-23.	Independence: Write
-24.	Reservation: Random
-25.	Welfare: Legacy
-26.	Settlement: Experience
-::.	Member: Identity
-
------------------------------
-
-*	Wax: Full Haystack
-..	Sign: Log Exchange
-1.	Farm: Ground Area
-2.	Map: Field Diagram
-3.	Record: Account Data
-4.	Climate: Weather Control
-5.	Resource: Inventory Management
-6.	Market: Value Shop
-7.	Contact: Business Profile
-8.	Schedule: Routine Job
-9.	Task: Work Assignment
-10.	Agriculture: Crop Cultivation
-11.	Livestock: Animal Husbandry
-12.	Assistance: Channel Feed
-13.	Report: Site Statistic
-14.	Service: Platform Maintenance
-15.	Operation: Active Process
-16.	Environment: Natural Asset
-17.	Outpost: Remote Branch
-18.	Watchlist: Recurring Item
-19.	Logistic: Transportation Mode
-20.	Carriage: Courier Partner
-21.	Bank: Financial Preference
-22.	Park: Reserve Space
-23.	Fund: Capital Investment
-24.	Organisation: Company File
-25.	Directory: Fundamental Rights
-26.	Game: Play Blog
-::.	Spot: Navigation Tower
 
 -----------------------------
 
