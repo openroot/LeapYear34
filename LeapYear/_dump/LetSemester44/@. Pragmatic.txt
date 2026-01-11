@@ -1,0 +1,22 @@
+-----------------------------
+-----------------------------
+
+*	Pragmatic: Pseudo Environment
+..	Zip: Composed Superset
+::.	Archive: Subset Mechanics
+
+-----------------------------
+-----------------------------
+
+*	Zip: Composed Superset
+..	Bank
+::.	Host
+
+-----------------------------
+
+*	Archive: Subset Mechanics
+..	Log
+::.	Record
+
+-----------------------------
+-----------------------------
