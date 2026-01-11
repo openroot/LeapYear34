@@ -2,6 +2,111 @@
 -----------------------------
 
 *	LetSemester44: Carriage Return
+..	Decay: Ill Deterioration
+::.	Defect
+
+-----------------------------
+-----------------------------
+
+*	Decay: Ill Deterioration
+..	Delay: Wrong Inception
+::.	Turmoil: Unmatched Deception
+
+-----------------------------
+
+*	Defect
+..	Isolate
+::.	Quarantine:  Compartment
+
+-----------------------------
+-----------------------------
+
+*	Delay: Wrong Inception
+..	Offbeat: Pending Work
+::.	Exhaust: Supplementary Dope
+
+-----------------------------
+
+*	Turmoil: Unmatched Deception
+..	Withdraw: Restrain Trial
+::.	Terminate: Extinguish Injury
+
+-----------------------------
+
+*	Isolate
+..	Exploit
+::.	Antitrust
+
+-----------------------------
+
+*	Quarantine:  Compartment
+..	Cease
+::.	Arrest
+
+-----------------------------
+-----------------------------
+
+*	Withdraw: Restrain Trial
+..	Breach: Infringement Curb
+1.	Smuggle
+2.	Crook
+3.	Gamble
+4.	Invade
+5.	Annex
+6.	Violet
+7.	Disrupt
+8.	Intrude
+9.	Encroach
+10.	Imprison
+11.	Infiltrate
+12.	Obscene
+13.	Neglect
+14.	Doubt
+15.	Filth
+16.	Abuse
+17.	Bizarre
+18.	Strangle
+19.	Obtrude
+20.	Extort
+21.	Corrupt
+22.	Peculiar
+23.	Trouble
+24.	Rattle
+25.	Corrosion
+26.	Erosion
+::.	Hijack: Unethical Trespass
+
+-----------------------------
+
+*	Terminate: Extinguish Injury
+..	Infection: Chronicle Allergy
+1.	Misuse
+2.	Wastage
+3.	
+4.	
+5.	
+6.	
+7.	
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+22.	
+23.	
+24.	
+25.	Patient
+26.	Redundant
+::.	Sorrowful: Basic Anomalies
 
 -----------------------------
 -----------------------------
