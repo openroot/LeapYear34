@@ -4,6 +4,7 @@
 		<title>LeapYear - Schematic Engine</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="icon" type="image/x-icon" href="Source/Image/favicon.ico">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 		<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
@@ -19,7 +20,7 @@
 					<!--<button class="navbar-toggler d-lg-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#sidebar" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle navigation">
 						<i class="fas fa-bars text-white"></i>
 					</button>-->
-					<a class="navbar-brand text-white" href="#">LeapYear: Schematic Engine</a>
+					<a class="navbar-brand text-white" href="#">LeapYear - Schematic Engine</a>
 				</div>
 				<!--<ul class="nav d-none d-lg-flex">
 					<li class="nav-item">
@@ -51,12 +52,12 @@
 			<div id="sidebar-backdrop" class="d-lg-none"></div>-->
 			<main id="content-wrapper" class="p-3">
 				<div id="context-area" class="bg-light border p-3 mt-1 mb-3">
-					Context
+					Disclaimer: The generated factor or factors do not lead to any misinformation and depict exact quanta.
 				</div>
 				<div id="content-area" class="row">
 					<div id="content-start" class="col-lg-8 my-1">
 						<div id="textarea-container">
-							<textarea id="text-statement" class="form-control full-height-textarea w-100" placeholder="Type text statement here..." aria-label="Input text statement"></textarea>
+							<textarea id="text-statement" class="form-control full-height-textarea w-100" placeholder="Type the text statement here..." aria-label="Input text statement"></textarea>
 						</div>
 					</div>
 					<div id="content-end" class="col-lg-4 my-1">
@@ -77,7 +78,7 @@
 
 		<footer class="bg-dark text-white text-center p-3">
 			<div class="container-fluid">
-				<span>&copy; 2025 - 2026 LeapYear. All rights reserved.</span>
+				<span>&copy; 2026 - 2027 LeapYear. All rights reserved.</span>
 			</div>
 		</footer>
 
@@ -256,7 +257,7 @@
 				information = table;
 			}
 			else {
-				information = "Information";
+				information = "The quanta factors get dynamically generated on text statement inputs.";
 			}
 			$("#information-container").html(information);
 		}
@@ -288,7 +289,7 @@
 					$(this).prop("selectionEnd", start + 1);
 				}
 			});
-			$("#text-statement").on("keyup change", function () {
+			$("#text-statement").on("input keyup change", function () {
 				traverseTextStatement($(this).val());
 			});
 			$("#text-statement").on("paste", (event) => {
